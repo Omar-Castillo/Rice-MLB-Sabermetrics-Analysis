@@ -2,3 +2,6 @@
 *.accdb
 .ipynb_checkpoints
 Amy Workfile/ANALYSIS/DNU Team Performance Correlations to Wins.twbx
+data/statcast_2017.csv
+data/statcast_2018.csv
+data/statcast_2019.csv
