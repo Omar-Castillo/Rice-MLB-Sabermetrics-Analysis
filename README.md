@@ -1,8 +1,7 @@
 # Rice-MLB-Sabermetrics-Analysis
 
 ## Tableau Public Viz
-https://public.tableau.com/profile/amy.reynolds#!/vizhome/TeamPlayerPerformanceChanges/WhatFactorsContributetoMajorLeagueBaseballTeamsWins
-
+https://public.tableau.com/profile/amy.reynolds#!/vizhome/TeamPlayerPerformanceChanges/FactorsContributingtoMLBTeamWins
 ## Contributors
 ### Omar Castillo
 https://github.com/Omar-Castillo
